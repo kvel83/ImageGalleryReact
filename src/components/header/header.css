@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-family: 'Black Han Sans';
+   text-shadow: 5px 5px 10px red;
+   margin-bottom: 2%;
+}
+.img-fluid{
+    width: 10%;
+    height: auto;
+}
