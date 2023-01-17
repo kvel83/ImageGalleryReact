@@ -2,6 +2,7 @@
 
 App creada con React + Bootstrap + CSS y desplegada en GitHub Pages.
 Se importa y utiliza componentes de Bootstrap tales como Card y Badge y se utiliza CSS para realizar el efecto de FlipCard.
+App responsiva y optimizada para navegador Google Chrome.
 
 
 Link de app en vivo: https://kvel83.github.io/ImageGalleryReact/
